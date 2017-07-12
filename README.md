@@ -5,4 +5,4 @@ There are scripts used in other games that have not been added to this main proj
 
 # TODO
 
- -[ ] Update this README with information on how to run the FITBoard application using this code
+ - [ ] Update this README with information on how to run the FITBoard application using this code
